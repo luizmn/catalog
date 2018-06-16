@@ -4,4 +4,4 @@ client_secrets.json
 fb_client_secrets.json
 productscatalog.db
 project_full.py
-__pycache__
+/__pycache__
